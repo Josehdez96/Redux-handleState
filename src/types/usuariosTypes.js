@@ -1,0 +1,3 @@
+export const TRAER_TODOS = 'USUARIOS_TRAER_USUARIOS';
+export const CARGANDO = 'USUARIOS_CARGANDO';
+export const ERROR = 'USUARIOS_ERROR';
